@@ -1,22 +1,22 @@
 {
-    "name": "stencil",
-    "displayName": "Stencil",
+    "name": "stencil-me",
+    "displayName": "Stencil (ME)",
     "description": "Support for the Stencil template language.",
-    "version": "1.0.1",
-    "publisher": "svanimpe",
+    "version": "1.0.2",
+    "publisher": "marcoeidinger",
     "author": {
-        "name": "Steven Van Impe",
+        "name": "Marco Eidinger",
         "email": "steven.vanimpe@icloud.com",
-        "url": "http://svanimpe.be"
+        "url": "https://www.eidinger.us"
     },
     "icon": "images/icon.png",
-    "homepage": "https://github.com/stencilproject/vscode-stencil",
+    "homepage": "https://github.com/MarcoEidinger/vscode-stencil",
     "repository": {
         "type": "git",
-        "url": "https://github.com/stencilproject/vscode-stencil"
+        "url": "https://github.com/MarcoEidinger/vscode-stencil"
     },
     "bugs": {
-        "url": "https://github.com/stencilproject/vscode-stencil/issues"
+        "url": "https://github.com/MarcoEidinger/vscode-stencil/issues"
     },
     "engines": {
         "vscode": "^1.19.0"

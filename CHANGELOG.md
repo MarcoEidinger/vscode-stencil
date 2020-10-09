@@ -13,3 +13,7 @@
 ## [1.0.1] - 2018-08-01
 
 This extension is now part of the Stencil project. The README and links have been updated accordingly.
+
+## [1.0.2] - 2020-10-09
+
+Bug fix(es)

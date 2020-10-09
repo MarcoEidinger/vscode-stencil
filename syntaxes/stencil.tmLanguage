@@ -373,7 +373,7 @@
 					<key>comment</key>
 					<string>A user-defined property.</string>
 					<key>match</key>
-					<string>[^\s\.,|%}]+</string>
+					<string>[^\s\.,%}]+</string>
 					<key>name</key>
 					<string>variable.other.stencil</string>
 				</dict>
